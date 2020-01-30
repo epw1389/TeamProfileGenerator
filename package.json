@@ -1,0 +1,26 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "Command line software team profile generator",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epw1389/TeamProfileGenerator-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epw1389/TeamProfileGenerator-/issues"
+  },
+  "homepage": "https://github.com/epw1389/TeamProfileGenerator-#readme",
+  "dependencies": {
+    "inquirer": "^7.0.3",
+    "jest": "^25.1.0"
+  }
+}
