@@ -3,13 +3,13 @@ Command line software team profile generator
 
 
 ​
-#### By Lisa Wa;ter
+#### By Lisa Walter
 ​
 ## Description
 Command line software  team profile generator. The application will ask the user for information about the team, and then create an html page displaying the team and information about the team. Any number of team members can be entered, and team members can be either engineers or interns.
 
 
-##Features
+## Features
 ​
 * Produces an html document for an engineering team consists of a manager, and any number of engineers and interns.
 ​
