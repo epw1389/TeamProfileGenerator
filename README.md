@@ -30,4 +30,4 @@ Command line software  team profile generator. The application will ask the user
 Node.js
 
 ## Demo
-![Team Profile Generator](demo/demo.gif)
+![Team Profile Generator](teamprofiledemo.gif)
